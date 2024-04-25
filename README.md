@@ -1,4 +1,4 @@
 # Conferences
-Conferences handouts
+**Conferences**
 
 This repository contains handouts and materials for conferences.
